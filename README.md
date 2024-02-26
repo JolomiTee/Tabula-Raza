@@ -1,4 +1,10 @@
+# Tabula Raza
+
+A project exploring the capabilities of the Tanstack Table (react-table)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+First run `npm install` to install the necessary npm packages
 
 ## Getting Started
 
@@ -21,6 +27,15 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
+
+### TanStack Table
+
+TanStack table is a Headless UI for building powerful tables & datagrids
+To learn more about TanStack table, take a look at the following resources:
+
+- [TanStack Table documentation](https://tanstack.com/table/latest) - learn about Tanstack table features and API.
+
+You can check out [the Tanstack table GitHub repository](https://github.com/tanstack/table) - your feedback and contributions are welcome!
 
 To learn more about Next.js, take a look at the following resources:
 
